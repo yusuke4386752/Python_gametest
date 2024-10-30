@@ -1,4 +1,5 @@
 # ChatGPTに作ってもらった、タイピングゲームです。
+# パブリックリポジトリ（誰でも見れる）ものにした。
 
 import random
 import time
