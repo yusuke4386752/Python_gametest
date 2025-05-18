@@ -66,5 +66,7 @@ MIT License
 
 ---
 
-## 🙌 作者
-
+📝 作成者
+名前：yomodon (おにぎりのアイコンの人)
+学年：大学3年生
+GitHub：https://github.com/yusuke4386752
